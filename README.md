@@ -1,4 +1,4 @@
-## Português & English
+## Português & English [colocar botão]
 
 I do not consider myself extraordinary in anything, but very good at everything. I think my differential is being objective in teaching situations and persistent in work situations, which makes me a unique, companionable, and emotional person.
 
@@ -67,6 +67,8 @@ I count on your support and participation in this important effort.
 
 ## Vision: Human Resources Service
 Our employability service is governed by fundamental principles that aim to address contemporary challenges. We observe that employability tends to increase alongside cognitive demands, implying the need for increasingly sophisticated skills and knowledge. However, we believe that in the near future, we will face scientific stagnation that impacts technological progress and the development of new opportunities. This scenario is exacerbated by social disparities resulting from problems in the educational system, which hinder equity and inclusion in the labor market. Our commitment is to prepare professionals for these realities, promoting continuous training adaptable to new demands.
+
+## Português & English
 
 Não me considero extraordinário em nada, mas muito bom em tudo. Penso que o meu diferencial é ser objetivo em situações de ensino e presistente em situações de trabalho, o que me torna uma pessoa única, companheira e emotiva.
 
