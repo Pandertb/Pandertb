@@ -138,4 +138,4 @@ Conto com o vosso apoio e participação neste importante esforço.
 ## Visão: Serviço de Recursos Humanos
 Nosso serviço de empregabilidade é regido por princípios fundamentais que visam enfrentar os desafios contemporâneos. Observamos que a empregabilidade tende a aumentar paralelamente às exigências cognitivas, implicando a necessidade de habilidades e conhecimentos cada vez mais sofisticados. No entanto, acreditamos que num futuro próximo enfrentaremos uma estagnação científica que impacta o progresso tecnológico e o desenvolvimento de novas oportunidades. Este panorama é agravado por disparidades sociais resultantes de problemas no sistema educacional, que impedem a equidade e a inclusão no mercado de trabalho. Nosso compromisso é preparar os profissionais para essas realidades, promovendo uma formação contínua e adaptável às novas demandas.
 
-[colocar as redes sociais]
+[colocar as redes sociais] [botão das Línguas]
