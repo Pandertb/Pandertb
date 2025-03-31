@@ -121,3 +121,5 @@ Outro ponto crítico que o Pandertbnolimite visa resolver é a burocracia desnec
 - **Impacto social**:
   
 - **Expansão de parcerias**:
+
+[botao de linguagem] [justificar texto]
